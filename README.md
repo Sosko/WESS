@@ -1,0 +1,2 @@
+# WESS
+Webový Skladový systém
